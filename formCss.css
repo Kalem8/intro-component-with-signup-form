@@ -1,0 +1,25 @@
+.formContainer {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.6rem;
+    width: 25rem;
+
+}
+.inForm {
+    width: 80%;
+    display: grid;
+}
+.label {
+    border: solid 1px black;
+    color: var(--dark-blue);
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.2rem;
+    margin: 1rem;
+}
+input {
+    border: white 0px solid;
+}
+input:focus {
+    outline: none;
+  }
